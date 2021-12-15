@@ -1,0 +1,14 @@
+.logo{
+    width: 100px;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: #e67d00 !important;
+    font-weight: bolder;
+}
+
+.nav-link:active{
+    color: #1ec1c0;
+    font-weight: bolder;
+}
